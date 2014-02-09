@@ -282,6 +282,6 @@
             }
         }
     };
-    $(document).ready(djdt.init);
+    djdt.jQuery(document).ready(djdt.init);
     return djdt;
 }));
